@@ -45,6 +45,15 @@ html{
     height: 100%;
 }
 
+#info{
+    background-color: #343a40;
+    color: white;
+}
+
+#info img{
+    max-width: 100%;
+}
+
 #header img{
     width: 20rem;
 }
