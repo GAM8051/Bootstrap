@@ -49,6 +49,10 @@ html{
     width: 20rem;
 }
 
+#community .row .card .badge{
+    font-size: 1rem;
+}
+
 #footer {
     background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372)
 }
